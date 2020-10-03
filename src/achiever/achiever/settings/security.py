@@ -1,4 +1,5 @@
 # SECURITY WARNING: keep the secret key used in production secret!
+# Korobov TODO: Move this to .env and use dotenv
 SECRET_KEY = '(n(hhdldw0cadn=5l2w8ahf2aq3gpa3)aezxq1d^m%w*pic_ef'
 
 # CORS integration
